@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\TranTuanAnh_6551071002_BTLT7-main\\TranTuanAnh_6551071002_BTLT7-main\\Cau1LTTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\TranTuanAnh_6551071002_BTLT7-main\\TranTuanAnh_6551071002_BTLT7-main\\Cau1LTTQ\\BaiTapTrenLop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTapTrenLop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Downloads\\TranTuanAnh_6551071002_BTLT7-main\\TranTuanAnh_6551071002_BTLT7-main\\Cau1LTTQ\\BaiTapTrenLop\\Cau1LTTQ.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTapTrenLop\\Cau1LTTQ.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cau1LTTQ.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\TranTuanAnh_6551071002_BTLT7-main\\TranTuanAnh_6551071002_BTLT7-main\\Cau1LTTQ\\BaiTapTrenLop\\Cau1LTTQ.csproj",
+              "RelativeDocumentMoniker": "BaiTapTrenLop\\Cau1LTTQ.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\TranTuanAnh_6551071002_BTLT7-main\\TranTuanAnh_6551071002_BTLT7-main\\Cau1LTTQ\\BaiTapTrenLop\\Cau1LTTQ.csproj",
+              "RelativeToolTip": "BaiTapTrenLop\\Cau1LTTQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T15:44:34.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\TranTuanAnh_6551071002_BTLT7-main\\TranTuanAnh_6551071002_BTLT7-main\\Cau1LTTQ\\BaiTapTrenLop\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTapTrenLop\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\TranTuanAnh_6551071002_BTLT7-main\\TranTuanAnh_6551071002_BTLT7-main\\Cau1LTTQ\\BaiTapTrenLop\\Program.cs",
+              "RelativeToolTip": "BaiTapTrenLop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T15:42:49.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
